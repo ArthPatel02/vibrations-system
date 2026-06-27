@@ -32,7 +32,7 @@ For new contributors follow these steps given below :
 2. **Clone the Forked Repository:**
    - Clone it to your local machine using:
      ```bash
-     git clone https://github.com/ArthPatel02/FEA_1D_BAR.git
+     git clone https://github.com/ArthPatel02/vibrations-system.git
      ```
 
 3. **Make Changes:**
