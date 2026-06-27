@@ -14,6 +14,7 @@ Analytical solutions for:
   2. Underdamped Vibration (c < cₐ)
   3. Critically damped Vibration (c = cₐ)
   4. Overdamped Vibration (c > cₐ)
+  5. Forced Vibration (Steady State and Total Response)
    
 ### 🔧 Tools Used:
 - MATLAB for simulation and plotting.
@@ -60,4 +61,4 @@ For new contributors follow these steps given below :
 - `git pull` : Fetch and merge changes on the remote server to your working directory
 
 ## Authors  
-1. Arth Patel - [Twitter](https://www.linkedin.com/in/arthpatel02/) | [Github](https://github.com/ArthPatel02)
+1. Arth Patel - [LinkedIn](https://www.linkedin.com/in/arthpatel02/) | [Github](https://github.com/ArthPatel02)
