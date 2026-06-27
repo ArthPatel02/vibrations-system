@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=30&duration=1&pause=100000000000000&width=650&lines=Vibration+Analysis+of+SDOF+System)
 
 ### 📌 Repository Description:
-- This repository contains the analytical derivation and MATLAB implementation of free vibration responses for a single degree of freedom (SDOF) system under different damping conditions.
+- This repository contains the analytical derivation and MATLAB implementation of vibration responses for a single degree of freedom (SDOF) system under different damping conditions.
 The system considered has:
   - Mass (m): 10 kg
   - Stiffness (k): 1000 N/m
